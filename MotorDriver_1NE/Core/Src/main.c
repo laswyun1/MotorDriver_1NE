@@ -37,7 +37,7 @@
 #include "risk_mngr.h"
 
 #include "../../WISL_MD/Apps/Risk_Mngr_Task/Inc/risk_mngr.h"
-//#include "../../WISL_MD/Msg_Hdlr_Task/Inc/msg_hdlr_task.h"
+#include "msg_hdlr_task.h"
 /* USER CODE END Includes */
 
 /* Private typedef -----------------------------------------------------------*/
